@@ -1,10 +1,10 @@
-# CombineArchiveShowCase
+# SimulationObjectShowCase
 
-This is going to be a fully featured [CombineArchive](http://combinearchive.org) that will help demonstrating the concepts and best practices.
+This is going to be a fully featured **Simulation Object** (a [Research Object](http://www.researchobject.org/) containing a simulation study) that will help demonstrating the concepts and best practices.
 
 ## What's in here
 
-This CombineArchive represents the study described by Calzone *et. al.* in [*Dynamical modeling of syncytial mitotic cycles in Drosophila embryos*](http://dx.doi.org/10.1038%2Fmsb4100171), Mol Syst Biol. 2007; 3: 131.
+This Simulation Object represents the study described by Calzone *et. al.* in [*Dynamical modeling of syncytial mitotic cycles in Drosophila embryos*](http://dx.doi.org/10.1038%2Fmsb4100171), Mol Syst Biol. 2007; 3: 131.
 I decided for that study because
 
 * the corresponding article is published as open access ([Creative Commons Attribution‐NonCommercial‐NoDerivs](http://creativecommons.org/licenses/by-nc-nd/3.0/)),
@@ -25,8 +25,7 @@ Please note, that this structure is not mandatory.
 
 ## Explore the CombineArchive
 
-To conveniently explore the contents of this CombineArchive you may open it in the [CombineArchive WebInterface](http://webcat.sems.uni-rostock.de/). Just import it using the following link:
+So far, this Simulation Object can only be explored by browsing through the files, e.g., on GitHub.
+However, you might want to explore the contents of the equivalent CombineArchive. You can open it in the [CombineArchive WebInterface](http://webcat.sems.uni-rostock.de/) by simply importing it using the following link:
 
 [http://webcat.sems.uni-rostock.de/rest/import?name=AllSingingAllDancing&remote=http://scripts.sems.uni-rostock.de/getshowcase.php](http://webcat.sems.uni-rostock.de/rest/import?name=AllSingingAllDancing&remote=http://scripts.sems.uni-rostock.de/getshowcase.php)
-
-You can of course also clone this repository or [download the latest version of this archive](http://scripts.sems.uni-rostock.de/getshowcase.php).
