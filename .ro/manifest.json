@@ -1,0 +1,437 @@
+{
+  "@context" : [ "https://w3id.org/bundle/context" ],
+  "id" : "/",
+  "manifest" : [ "manifest.json" ],
+  "createdOn" : "2015-07-16T09:42:18.148Z",
+  "aggregates" : [ {
+    "uri" : "/result/Fig1B-top-webtools.png",
+    "mediatype" : "image/png",
+    "createdOn" : "2015-07-16T09:42:18.151Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/png",
+    "bundledAs" : {
+      "uri" : "urn:uuid:3b277610-c4ab-4244-b751-bf1287a5aa04",
+      "folder" : "/result/"
+    }
+  }, {
+    "uri" : "/documentation/Calzone2007.pdf",
+    "mediatype" : "application/pdf",
+    "createdOn" : "2015-07-16T09:42:18.161Z",
+    "authoredBy" : [ {
+      "name" : "Laurence Calzone"
+    }, {
+      "name" : "Denis Thieffry"
+    }, {
+      "name" : "John J Tyson"
+    }, {
+      "uri" : "mailto:bela.novak@bioch.ox.ac.uk",
+      "name" : "Bela Novak"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/application/pdf",
+    "bundledAs" : {
+      "uri" : "urn:uuid:13b1eb11-1534-4188-9754-f39e617f373b",
+      "folder" : "/documentation/"
+    }
+  }, {
+    "uri" : "/model/BIOMD0000000144.xml",
+    "mediatype" : "application/xml",
+    "createdOn" : "2015-07-16T09:42:18.168Z",
+    "createdBy" : {
+      "uri" : "mailto:enuo@caltech.edu",
+      "name" : "Enuo He"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:enuo@caltech.edu",
+      "name" : "Enuo He"
+    } ],
+    "conformsTo" : "http://identifiers.org/combine.specifications/sbml.level-2.version-1",
+    "bundledAs" : {
+      "uri" : "urn:uuid:40e7ccb6-ecba-4604-89b6-9831299928bc",
+      "folder" : "/model/"
+    }
+  }, {
+    "uri" : "/experiment/Calzone2007-simulation-figure-1B.xml",
+    "mediatype" : "application/xml",
+    "createdOn" : "2015-07-16T09:42:18.174Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://identifiers.org/combine.specifications/sed-ml.level-1.version-1",
+    "bundledAs" : {
+      "uri" : "urn:uuid:75c41c11-b2a0-4c02-8f4d-b872b348b410",
+      "folder" : "/experiment/"
+    }
+  }, {
+    "uri" : "/result/Fig1B-bottom-webtools.png",
+    "mediatype" : "image/png",
+    "createdOn" : "2015-07-16T09:42:18.179Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/png",
+    "bundledAs" : {
+      "uri" : "urn:uuid:2e7620a6-3b4a-4ccc-91ab-50a0dfde3106",
+      "folder" : "/result/"
+    }
+  }, {
+    "uri" : "/model/calzone_2007.ai",
+    "mediatype" : "application/octet-stream",
+    "createdOn" : "2015-07-16T09:42:18.188Z",
+    "createdBy" : {
+      "uri" : "mailto:Hanne@hanne-nielsens-macbook.local",
+      "name" : "Hanne"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:Hanne@hanne-nielsens-macbook.local",
+      "name" : "Hanne"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/application/illustrator",
+    "bundledAs" : {
+      "uri" : "urn:uuid:5b1df348-7395-4dfb-86a9-2464bf96e36f",
+      "folder" : "/model/"
+    }
+  }, {
+    "uri" : "/model/sbgn/Calzone2007.png",
+    "mediatype" : "image/png",
+    "createdOn" : "2015-07-16T09:42:18.194Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/png",
+    "bundledAs" : {
+      "uri" : "urn:uuid:99f10668-1606-4c36-83a0-53d8fc31f9e0",
+      "folder" : "/model/sbgn/"
+    }
+  }, {
+    "uri" : "/model/calzone_2007.svg",
+    "mediatype" : "image/svg+xml",
+    "createdOn" : "2015-07-16T09:42:18.202Z",
+    "createdBy" : {
+      "uri" : "mailto:Hanne@hanne-nielsens-macbook.local",
+      "name" : "Hanne"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:Hanne@hanne-nielsens-macbook.local",
+      "name" : "Hanne"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/svg+xml",
+    "bundledAs" : {
+      "uri" : "urn:uuid:a0675808-1ea4-4a34-b7ef-ebc0ecfc01e9",
+      "folder" : "/model/"
+    }
+  }, {
+    "uri" : "/model/sbgn/Calzone2007.pdf",
+    "mediatype" : "application/pdf",
+    "createdOn" : "2015-07-16T09:42:18.228Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/application/pdf",
+    "bundledAs" : {
+      "uri" : "urn:uuid:e693e1c4-ebac-478e-8f59-c922fba2bdef",
+      "folder" : "/model/sbgn/"
+    }
+  }, {
+    "uri" : "/model/calzone_thieffry_tyson_novak_2007.cellml",
+    "mediatype" : "application/octet-stream",
+    "createdOn" : "2015-07-16T09:42:18.231Z",
+    "createdBy" : {
+      "uri" : "mailto:nobody@models.cellml.org",
+      "name" : "pmr2.import"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:nobody@models.cellml.org",
+      "name" : "pmr2.import"
+    } ],
+    "conformsTo" : "http://identifiers.org/combine.specifications/cellml",
+    "bundledAs" : {
+      "uri" : "urn:uuid:9a5bf46e-5d4d-4552-abef-99d6f1d2d1b6",
+      "folder" : "/model/"
+    }
+  }, {
+    "uri" : "/experiment/Calzone2007-simulation-all-figures.xml",
+    "mediatype" : "application/xml",
+    "createdOn" : "2015-07-16T09:42:18.232Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://identifiers.org/combine.specifications/sed-ml.level-1.version-1",
+    "bundledAs" : {
+      "uri" : "urn:uuid:3ceb9c60-cd53-4fed-890a-796841ab4646",
+      "folder" : "/experiment/"
+    }
+  }, {
+    "uri" : "/documentation/Calzone2007-supplementary-material.pdf",
+    "mediatype" : "application/pdf",
+    "createdOn" : "2015-07-16T09:42:18.236Z",
+    "authoredBy" : [ {
+      "uri" : "mailto:laurence.calzone@curie.fr",
+      "name" : "Laurence Calzone"
+    }, {
+      "name" : "Denis Thieffry"
+    }, {
+      "name" : "John J Tyson"
+    }, {
+      "uri" : "mailto:bela.novak@bioch.ox.ac.uk",
+      "name" : "Bela Novak"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/application/pdf",
+    "bundledAs" : {
+      "uri" : "urn:uuid:677a7e46-228d-484a-aa05-da4ff862bc5c",
+      "folder" : "/documentation/"
+    }
+  }, {
+    "uri" : "/result/Fig1B-top-COPASI.svg",
+    "mediatype" : "image/svg+xml",
+    "createdOn" : "2015-07-16T09:42:18.24Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/svg+xml",
+    "bundledAs" : {
+      "uri" : "urn:uuid:a6de7279-49c6-4cb2-9d55-bbf70bf974e9",
+      "folder" : "/result/"
+    }
+  }, {
+    "uri" : "/model/sbgn/Calzone2007.graphml",
+    "mediatype" : "application/octet-stream",
+    "createdOn" : "2015-07-16T09:42:18.243Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/application/xml",
+    "bundledAs" : {
+      "uri" : "urn:uuid:1e4fba61-36bf-4fa8-bc1f-b8c39615aaf5",
+      "folder" : "/model/sbgn/"
+    }
+  }, {
+    "uri" : "/model/calzone_2007.png",
+    "mediatype" : "image/png",
+    "createdOn" : "2015-07-16T09:42:18.247Z",
+    "createdBy" : {
+      "uri" : "mailto:c.lloyd@auckland.ac.nz",
+      "name" : "Catherine Lloyd"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:c.lloyd@auckland.ac.nz",
+      "name" : "Catherine Lloyd"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/png",
+    "bundledAs" : {
+      "uri" : "urn:uuid:5ec24445-a81e-4ce8-9ac8-aa6db099c646",
+      "folder" : "/model/"
+    }
+  }, {
+    "uri" : "/README.md",
+    "mediatype" : "application/octet-stream",
+    "createdOn" : "2015-07-16T09:42:18.248Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/text/x-markdown",
+    "bundledAs" : {
+      "uri" : "urn:uuid:67d988f7-da45-4d52-8f95-2d290faedb43",
+      "folder" : "/"
+    }
+  }, {
+    "uri" : "/model/sbgn/Calzone2007.gml",
+    "mediatype" : "application/octet-stream",
+    "createdOn" : "2015-07-16T09:42:18.251Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/text/plain",
+    "bundledAs" : {
+      "uri" : "urn:uuid:8f80a6f4-c0f7-4848-9dbb-fbb40e824ba1",
+      "folder" : "/model/sbgn/"
+    }
+  }, {
+    "uri" : "/result/Fig1B-bottom-COPASI.svg",
+    "mediatype" : "image/svg+xml",
+    "createdOn" : "2015-07-16T09:42:18.254Z",
+    "createdBy" : {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    },
+    "authoredBy" : [ {
+      "uri" : "mailto:martin.scharm@uni-rostock.de",
+      "name" : "Martin Scharm"
+    } ],
+    "conformsTo" : "http://purl.org/NET/mediatypes/image/svg+xml",
+    "bundledAs" : {
+      "uri" : "urn:uuid:0bce86ce-cd05-4067-b204-d67b51822b2b",
+      "folder" : "/result/"
+    }
+  } ],
+  "annotations" : [ {
+    "about" : "/",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#ca2ro"
+  }, {
+    "uri" : "urn:uuid:45294f14-9ed1-40b1-af4c-38ac64bf828c",
+    "about" : "/result/Fig1B-top-webtools.png",
+    "content" : "annotations/omex-conversion-1.rdf",
+    "annotion" : "urn:uuid:45294f14-9ed1-40b1-af4c-38ac64bf828c"
+  }, {
+    "about" : "urn:uuid:45294f14-9ed1-40b1-af4c-38ac64bf828c",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:45f60c6d-9a2f-407e-bd2a-4c54e0cf5f0d",
+    "about" : "/documentation/Calzone2007.pdf",
+    "content" : "annotations/omex-conversion-2.rdf",
+    "annotion" : "urn:uuid:45f60c6d-9a2f-407e-bd2a-4c54e0cf5f0d"
+  }, {
+    "about" : "urn:uuid:45f60c6d-9a2f-407e-bd2a-4c54e0cf5f0d",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:e16a8fd0-e1a9-4fcd-b502-5a0597482f97",
+    "about" : "/model/BIOMD0000000144.xml",
+    "content" : "annotations/omex-conversion-3.rdf",
+    "annotion" : "urn:uuid:e16a8fd0-e1a9-4fcd-b502-5a0597482f97"
+  }, {
+    "about" : "urn:uuid:e16a8fd0-e1a9-4fcd-b502-5a0597482f97",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:62137018-7679-488e-b958-31756648a80d",
+    "about" : "/experiment/Calzone2007-simulation-figure-1B.xml",
+    "content" : "annotations/omex-conversion-4.rdf",
+    "annotion" : "urn:uuid:62137018-7679-488e-b958-31756648a80d"
+  }, {
+    "about" : "urn:uuid:62137018-7679-488e-b958-31756648a80d",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "about" : "/experiment/Calzone2007-simulation-figure-1B.xml",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#mainEntry"
+  }, {
+    "uri" : "urn:uuid:b32ec147-3678-4d17-a49b-1bd5643fdc43",
+    "about" : "/result/Fig1B-bottom-webtools.png",
+    "content" : "annotations/omex-conversion-5.rdf",
+    "annotion" : "urn:uuid:b32ec147-3678-4d17-a49b-1bd5643fdc43"
+  }, {
+    "about" : "urn:uuid:b32ec147-3678-4d17-a49b-1bd5643fdc43",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:63ae7ee1-8037-44e2-bf0f-8f1f3f66de65",
+    "about" : "/model/sbgn/Calzone2007.png",
+    "content" : "annotations/omex-conversion-6.rdf",
+    "annotion" : "urn:uuid:63ae7ee1-8037-44e2-bf0f-8f1f3f66de65"
+  }, {
+    "about" : "urn:uuid:63ae7ee1-8037-44e2-bf0f-8f1f3f66de65",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:d34845cf-35de-4a37-8f93-1397164effde",
+    "about" : "/model/sbgn/Calzone2007.pdf",
+    "content" : "annotations/omex-conversion-7.rdf",
+    "annotion" : "urn:uuid:d34845cf-35de-4a37-8f93-1397164effde"
+  }, {
+    "about" : "urn:uuid:d34845cf-35de-4a37-8f93-1397164effde",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:3f35afde-8f47-4242-9398-c1487b9c31ad",
+    "about" : "/experiment/Calzone2007-simulation-all-figures.xml",
+    "content" : "annotations/omex-conversion-8.rdf",
+    "annotion" : "urn:uuid:3f35afde-8f47-4242-9398-c1487b9c31ad"
+  }, {
+    "about" : "urn:uuid:3f35afde-8f47-4242-9398-c1487b9c31ad",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:80bcfc6c-ea59-4267-a77e-9c663eebb298",
+    "about" : "/documentation/Calzone2007-supplementary-material.pdf",
+    "content" : "annotations/omex-conversion-9.rdf",
+    "annotion" : "urn:uuid:80bcfc6c-ea59-4267-a77e-9c663eebb298"
+  }, {
+    "about" : "urn:uuid:80bcfc6c-ea59-4267-a77e-9c663eebb298",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:f816d295-ccaf-4ac8-8c27-751de4bf1be0",
+    "about" : "/result/Fig1B-top-COPASI.svg",
+    "content" : "annotations/omex-conversion-10.rdf",
+    "annotion" : "urn:uuid:f816d295-ccaf-4ac8-8c27-751de4bf1be0"
+  }, {
+    "about" : "urn:uuid:f816d295-ccaf-4ac8-8c27-751de4bf1be0",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:7b307237-f8e2-443d-a318-768970c72e3c",
+    "about" : "/model/sbgn/Calzone2007.graphml",
+    "content" : "annotations/omex-conversion-11.rdf",
+    "annotion" : "urn:uuid:7b307237-f8e2-443d-a318-768970c72e3c"
+  }, {
+    "about" : "urn:uuid:7b307237-f8e2-443d-a318-768970c72e3c",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:b0aef33b-635b-411a-b6fc-6abfce536c61",
+    "about" : "/README.md",
+    "content" : "annotations/omex-conversion-12.rdf",
+    "annotion" : "urn:uuid:b0aef33b-635b-411a-b6fc-6abfce536c61"
+  }, {
+    "about" : "urn:uuid:b0aef33b-635b-411a-b6fc-6abfce536c61",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:43e67962-e362-4466-b585-de8e8403e19f",
+    "about" : "/model/sbgn/Calzone2007.gml",
+    "content" : "annotations/omex-conversion-13.rdf",
+    "annotion" : "urn:uuid:43e67962-e362-4466-b585-de8e8403e19f"
+  }, {
+    "about" : "urn:uuid:43e67962-e362-4466-b585-de8e8403e19f",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  }, {
+    "uri" : "urn:uuid:91a3faed-3eec-4662-97d5-fc469e92c2b0",
+    "about" : "/result/Fig1B-bottom-COPASI.svg",
+    "content" : "annotations/omex-conversion-14.rdf",
+    "annotion" : "urn:uuid:91a3faed-3eec-4662-97d5-fc469e92c2b0"
+  }, {
+    "about" : "urn:uuid:91a3faed-3eec-4662-97d5-fc469e92c2b0",
+    "content" : "http://sems.uni-rostock.de/CaRo/annotations#omexMeta"
+  } ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="/experiment/Calzone2007-simulation-figure-1B.xml">
+    <dcterms:description xmlns:dcterms="http://purl.org/dc/terms/">Simulation description adapted from /experiment/Calzone2007-simulation-all-figures.xml . This SED-ML script reproduces Figure 1B of the article /documentation/Calzone2007.pdf .</dcterms:description>
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <rdf:Bag>
+        <rdf:li rdf:parseType="Resource">
+          <vCard:n xmlns:vCard="http://www.w3.org/2006/vcard/ns#" rdf:parseType="Resource">
+            <vCard:family-name>Scharm</vCard:family-name>
+            <vCard:given-name>Martin</vCard:given-name>
+          </vCard:n>
+          <vCard:email xmlns:vCard="http://www.w3.org/2006/vcard/ns#">martin.scharm@uni-rostock.de</vCard:email>
+          <vCard:org xmlns:vCard="http://www.w3.org/2006/vcard/ns#" rdf:parseType="Resource">
+            <vCard:organization-name>University of Rostock</vCard:organization-name>
+          </vCard:org>
+        </rdf:li>
+      </rdf:Bag>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Resource">
+      <dcterms:W3CDTF>2015-06-11T12:58:55Z</dcterms:W3CDTF>
+    </dcterms:created>
+    <dcterms:modified xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Resource">
+      <dcterms:W3CDTF>2015-06-11T12:58:55Z</dcterms:W3CDTF>
+    </dcterms:modified>
+    <dcterms:modified xmlns:dcterms="http://purl.org/dc/terms/" rdf:parseType="Resource">
+      <dcterms:W3CDTF>2015-06-11T13:16:25Z</dcterms:W3CDTF>
+    </dcterms:modified>
+  </rdf:Description>
+</rdf:RDF>
